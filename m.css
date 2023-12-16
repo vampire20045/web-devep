@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;
+}
+div{
+    background-color: green;
+    width: 50%;
+    height: 50%;
+}
+@media(width:800px){
+    div{
+        background-color: azure;
+    }
+}
+@media(min-width:600px){
+    div{
+        background-color: pink;
+    }
+}
+@media(min-width:400px)and(max-width:500px){
+    div{
+        background-color: black;
+    }
+}

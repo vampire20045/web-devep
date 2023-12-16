@@ -1,0 +1,25 @@
+.h{
+    background-color: rgb(255, 0, 0);
+    height: 20%;
+    width: 100%
+    font-weight: bold;
+}
+.body{
+background-color: blanchedalmond;
+}
+div{
+    background-color: rgb(192, 255, 226);
+    height:100%;
+    width :100%;
+}
+#g{
+    background-color: black;
+    height: 30px;
+    width: 30px;
+}
+#p{
+    font-weight: normal;
+    text-align: center;
+    font-style: italic;
+    font-size: 100px;
+}

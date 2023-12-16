@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+    padding: 0%;
+    margin:0%;
+}
+.ar{
+    width: 50%;
+    height: 30%;
+    background-color: palevioletred;
+
+    border: top 20px;
+    border-color: black;
+    border-style:solid;
+    text-align:left;
+    margin-bottom: 100px;
+    border-radius: 30px;
+    padding-left:30px;
+    margin-left: 0px;
+}
+.p{
+    width: 50%;
+    height: 30%;
+    background-color: rgb(140, 216, 112);}
+    .s{
+        width: 30px;
+        height: 30px;
+        background-color: blue;
+    }
+    k{
+        width: 30px;
+        height: 30px;
+        background-color: black;
+    }

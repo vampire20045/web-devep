@@ -1,0 +1,84 @@
+body{
+
+    padding: 0%;
+    margin: 0%;
+    background-image: url("f.jpeg");
+    background-size:contain;
+
+}
+.a{
+    height: 80%;
+    width: 30%;
+    position: static;
+    border-radius: 20px;
+    background-image: url("a.jpeg");
+    background-size:cover;
+    display: inline-block;
+    margin: 5%;
+border: 3%;
+border-color: black;
+border-style: solid;
+position: static;
+}
+.b{
+    height: 80%;
+    width: 30%;
+    position: static;
+    border-radius: 20px;
+    background-image: url("b.jpeg");
+    background-size:cover;
+    display: inline-block;
+    margin: 5%;
+    border: 3%;
+    border-color: black;
+    border-style: solid;
+
+
+}
+.c{
+    height: 80%;
+    width: 30%;
+    position: static;
+    border-radius: 20px;
+    background-image: url("c.jpeg");
+    background-size:cover;
+    display: inline-block;
+    margin: 5%;
+
+
+    border: 3%;
+    border-color: black;
+    border-style: solid;
+}
+.d{
+    height: 80%;
+    width: 30%;
+    position: static;
+    border-radius: 20px;
+    background-image: url("d.jpeg");
+    background-size:cover;
+    display: inline-block;
+    margin: 5%;
+
+
+    border: 3%;
+    border-color: black;
+    border-style: solid;
+}
+.e{
+    height: 80%;
+    width: 40%;
+    position: static;
+    border-radius: 20px;
+    background-image: url("e.jpeg");
+    background-size:cover;
+    display: inline-block;
+    margin: 5%;
+align-content: center;
+border: 3%;
+border-color: black;
+border-style: solid;
+
+
+
+}
